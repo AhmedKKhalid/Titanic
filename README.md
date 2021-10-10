@@ -1,9 +1,10 @@
 # Titanic Classification Project
 * the project is for data science Classification problem to know if the passenger will survived or not .
 * Data Analysis .
-* Machine Learning 
-* Choosing the best model 
-* Evaluation Matrix
+* Data Visualization .
+* Machine Learning .
+* Choosing the best model . 
+* Evaluation Matrix .
 
 # Libraries
 * pandas  
@@ -11,7 +12,7 @@
 * seaborn 
 * sklearn
 
-# EDA
+# Data Visualization
 ![](https://github.com/AhmedKKhalid/Titanic/blob/main/ScreenShots/1.PNG) ![](https://github.com/AhmedKKhalid/Titanic/blob/main/ScreenShots/2.PNG)
 ![](https://github.com/AhmedKKhalid/Titanic/blob/main/ScreenShots/3.PNG) ![](https://github.com/AhmedKKhalid/Titanic/blob/main/ScreenShots/4.PNG)
 ![](https://github.com/AhmedKKhalid/Titanic/blob/main/ScreenShots/5.PNG) ![](https://github.com/AhmedKKhalid/Titanic/blob/main/ScreenShots/6.PNG)
