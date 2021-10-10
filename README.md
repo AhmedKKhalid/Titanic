@@ -1,5 +1,5 @@
 # Titanic Classification Project
-* the project is for data science Classification problem to know if the passenger will survived or not .
+* the project is for data science Classification problem to know if the passengers will survived or not .
 * Data Cleaning .
 * Data Analysis .
 * Data Visualization .
