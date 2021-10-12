@@ -32,7 +32,7 @@ I tried 5 different models
  * SVM
 
 # Model performance 
- * Random Forest : score = 0.8301435406698564 
- * SVM : score = 0.9808612440191388
+ * Random Forest : score = 0.9068462401795735
+ * SVM : score = 0.8496071829405163
  
 
